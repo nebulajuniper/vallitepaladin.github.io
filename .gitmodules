@@ -1,0 +1,3 @@
+[submodule "iOS-guides"]
+	path = iOS-guides
+	url = https://github.com/nebulajuniper/iOS-guides.git
