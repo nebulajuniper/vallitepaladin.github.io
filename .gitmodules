@@ -1,3 +1,6 @@
 [submodule "iOS-guides"]
 	path = iOS-guides
 	url = https://github.com/nebulajuniper/iOS-guides.git
+[submodule "Tailscale Guide"]
+	path = Tailscale Guide
+	url = https://github.com/nebulajuniper/Tailscale-guide.git
